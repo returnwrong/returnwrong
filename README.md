@@ -21,12 +21,17 @@ ________________________________________________________________________________
            <“地图API后台配置错误”:挖SRC的新玩具？>➡https://www.freebuf.com/articles/web/360331.html
            <漏洞挖掘 | 一文详解地图API后台配置错误漏洞更新 >➡https://www.freebuf.com/vuls/380521.html
            <RTSP狩猎之旅：从协议解析到黑客实战 >➡https://www.freebuf.com/vuls/421112.html
+           ...
+           <其它非常多的研究都在这里啦>➡https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDcyODIzNg==&action=getalbum&album_id=3560057283163488258#wechat_redirect
            
 - ⭐️ 应急响应:  </br>
 
            <记一次“本以为简简单单但发现有一丁点复杂”的安全分析事件>➡https://www.freebuf.com/articles/web/263773.html
            <记一次略坑的应急响应事件>➡https://www.freebuf.com/articles/web/259677.html
            <记一次仅有“小学二年级水平”的linux服务器应急>➡https://www.freebuf.com/articles/system/268179.html
+
+- ⭐️ 个人网站:  </br>
+           https://www.ditusec.com/
 
 
 ### egg🥚
